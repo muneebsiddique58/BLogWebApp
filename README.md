@@ -37,5 +37,6 @@ Built with **React** for the front-end and **Node.js** for the back-end.
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/muneebsiddique58/BLogWebApp
 cd blog-web-app
+
