@@ -28,7 +28,7 @@ Built with **React** for the front-end and **Node.js** for the back-end.
 
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express  
-- **Database:** (Your choice: MongoDB/MySQL/SQLite)  
+- **Database:** MySQL
 - **Other Libraries:** Axios, React Router  
 
 ---
@@ -39,4 +39,5 @@ Built with **React** for the front-end and **Node.js** for the back-end.
 ```bash
 git clone https://github.com/muneebsiddique58/BLogWebApp
 cd blog-web-app
+
 
